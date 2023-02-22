@@ -1,2 +1,2 @@
 # Meaningful
-React application fetched using google dictonary API which gives meanings, definitions, synonyms and pronounciation(if available) of the searched word. 
+React application created using google dictonary API which gives meanings, definitions, synonyms and pronounciation(if available) of the searched word. 
